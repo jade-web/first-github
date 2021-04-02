@@ -7,7 +7,7 @@
 	Hello! Java Server Pages.
 <<<<<<< HEAD
 	
-	테스트
+	테스트 테스트2
 =======
 >>>>>>> refs/remotes/origin/master
 </body>
